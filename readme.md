@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
--   🔭 I’m currently working on **Trello clone app, my own project to do list**
+-   🔭 I’m currently working on **Alien app, my own project to do list**
 
 -   🌱 I’m currently learning **React and its ecosystem**
 
