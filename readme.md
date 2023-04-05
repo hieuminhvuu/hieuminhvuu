@@ -1,55 +1,47 @@
 <h1 align="center">Hi, there! I'm Hieu Minh Vu <img src="https://media2.giphy.com/media/26hisVHpbBwfcfKus/giphy.webp?cid=ecf05e477242c9exx9kdrb69yh9yepj3yyhfdm63ny2ll373&rid=giphy.webp&ct=g" width="30" height="30"/></h1>
-<h3 align="center">A passionate beginner web developer</h3>
+<h3 align="center">A passionate back-end developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=burevestnik-png&label=Profile%20views&color=0e75b6&style=flat" alt="burevestnik-png" /> </p>
 
--   🔭 I’m currently working on **Alien list app, my own project to do list**
+<div id="header" align="center">
+  <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif" width="500"/>
+</div>
 
--   🌱 I’m currently learning **React and its ecosystem**
+-   🎓 Third-year student at ITMO University - Saint Petersburg, Russia
 
--   💬 Ask me about **Javascript, NodeJs and React**
+-   🌱 I’m currently learning **Cloud Computing** at **Viettel Digital Talent**
 
--   📫 How to reach me **hieuminhvuu@gmail.com, https://t.me/hieuminhvuu**
+-   🧑🏻‍💻 I'm currently building a back-end e-commerce project using **Strapi**
 
-<h3 align="left">Brief bio</h3>
+-   🎯 Target 2023-2024 : **AWS Certified Solutions Architect - Associate**
 
--   Third-year student at ITMO University - Saint Petersburg
--   Worked a lot with the frontend, but unfortunately burned out
--   I have experience in simple crud-programming with spring
--   I find web development fascinating, both native and cross-platform
--   It would be cool in the future to try to write something on React
+-   📫 How to reach me **hieuminhvuu.forwork@gmail.com, https://t.me/hieuminhvuu**
 
-<h3 align="left">Languages and Tools for frontend development:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="redux" width="40" height="40"/>
-</a>
-</p>
+## Technology
 
-<h3 align="left">Languages and Tools for backend development:</h3>
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com//" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySQL" width="40" height="40"/>
-</a>
-</p>
+<div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img width="50px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img width="50px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
+    <img width="50px" src="https://vectorwiki.com/images/es4CV__strapi.svg"/>
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+    <img width="50px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
+    <img width="50px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
+    <img width="50px" src="https://seeklogo.com/images/M/mac-os-x-logo-C3B37FBB68-seeklogo.com.png"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+    <img width="50px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+    <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img width="50px" src="https://img.icons8.com/doodle/25/000000/console--v2.png"/>
+</div>
