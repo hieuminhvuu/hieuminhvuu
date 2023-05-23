@@ -20,31 +20,31 @@
 ## Technology
 
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-    <img width="68px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
-    <img width="68px" src="https://vectorwiki.com/images/i0tvc__fastapi.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    <img width="68px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
-    <img width="68px" src="https://vectorwiki.com/images/es4CV__strapi.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img width="68px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
-    <img width="68px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-    <img width="68px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+    <img width="66px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+    <img width="66px" src="https://vectorwiki.com/images/i0tvc__fastapi.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+    <img width="66px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"/>
+    <img width="66px" src="https://vectorwiki.com/images/es4CV__strapi.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+    <img width="66px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
+    <img width="66px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+    <img width="66px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"/>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center; padding-bottom: 20px">
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-    <img width="68px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <img width="68px" src="https://img.icons8.com/doodle/25/000000/console--v2.png"/>
-    <img width="68px" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png"/>
-    <img width="68px" src="https://vectorwiki.com/images/lAEsV__prometheus.svg"/>
-    <img width="68px" src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_compose.png"/>
-    <img width="68px" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>
-    <img width="68px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
-    <img width="68px" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+    <img width="66px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+    <img width="66px" src="https://img.icons8.com/doodle/25/000000/console--v2.png"/>
+    <img width="66px" src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png"/>
+    <img width="66px" src="https://vectorwiki.com/images/lAEsV__prometheus.svg"/>
+    <img width="66px" src="https://www.suse.com/c/wp-content/uploads/2021/09/rancher_blog_compose.png"/>
+    <img width="66px" src="https://img.icons8.com/?size=512&id=LoL4bFzqmAa0&format=png"/>
+    <img width="66px" src="https://img.icons8.com/?size=512&id=34886&format=png"/>
+    <img width="66px" src="https://img.icons8.com/?size=512&id=cvzmaEA4kC0o&format=png"/>
 </div>
