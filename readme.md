@@ -9,9 +9,9 @@
 
 -   🎓 Third-year student at ITMO University - Saint Petersburg, Russia
 
--   🌱 I’m currently learning **Cloud Computing** at **Viettel Digital Talent**
+-   🌱 I’m currently learning **AWS, DevOps**
 
--   🧑🏻‍💻 I'm currently building a back-end e-commerce project using **Strapi**
+-   🧑🏻‍💻 I'm currently building a back-end e-commerce project
 
 -   🎯 Target 2023-2024 : **AWS Certified Solutions Architect - Associate**
 
