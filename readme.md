@@ -7,7 +7,7 @@
   <img src="https://media.tenor.com/Ta0UjU3ajbYAAAAd/space-what.gif" width="500"/>
 </div>
 
--   🎓 Third-year student at ITMO University - Saint Petersburg, Russia
+-   🎓 Last-year student at ITMO University - Saint Petersburg, Russia
 
 -   🌱 I’m currently learning **AWS, DevOps**
 
